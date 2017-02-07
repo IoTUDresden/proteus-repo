@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.vicci.proteus.bundles.editor</groupId>
+  <artifactId>eu.vicci.process.graphiti.adapter</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170207162517</lastUpdated>
+  </versioning>
+</metadata>
