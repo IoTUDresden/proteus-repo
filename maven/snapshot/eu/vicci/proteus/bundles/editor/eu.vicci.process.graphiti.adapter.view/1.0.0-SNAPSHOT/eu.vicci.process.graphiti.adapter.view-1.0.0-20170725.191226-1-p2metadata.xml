@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<units size='1'>
+  <unit id='eu.vicci.process.graphiti.adapter.view' version='1.0.0.201707251912'>
+    <update id='eu.vicci.process.graphiti.adapter.view' range='[0.0.0,1.0.0.201707251912)' severity='0'/>
+    <properties size='5'>
+      <property name='org.eclipse.equinox.p2.name' value='Adapter View'/>
+      <property name='org.eclipse.equinox.p2.provider' value='TUD'/>
+      <property name='maven-groupId' value='eu.vicci.proteus.bundles.editor'/>
+      <property name='maven-artifactId' value='eu.vicci.process.graphiti.adapter.view'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+    <provides size='3'>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.graphiti.adapter.view' version='1.0.0.201707251912'/>
+      <provided namespace='osgi.bundle' name='eu.vicci.process.graphiti.adapter.view' version='1.0.0.201707251912'/>
+      <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+    </provides>
+    <requires size='12'>
+      <required namespace='osgi.bundle' name='org.eclipse.ui' range='0.0.0'/>
+      <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.core' range='1.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.model.util' range='1.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.model' range='0.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.graphiti.adapter' range='1.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.graphiti.execution' range='1.0.0'/>
+      <required namespace='java.package' name='eu.vicci.process.client' range='0.0.0'/>
+      <required namespace='java.package' name='org.eclipse.core.resources' range='0.0.0'/>
+      <required namespace='java.package' name='org.eclipse.emf.ecore.xmi' range='0.0.0'/>
+      <required namespace='java.package' name='org.eclipse.emf.ecore.xmi.impl' range='0.0.0'/>
+      <required namespace='java.package' name='org.eclipse.graphiti.ui.editor' range='0.12.2'/>
+    </requires>
+    <artifacts size='1'>
+      <artifact classifier='osgi.bundle' id='eu.vicci.process.graphiti.adapter.view' version='1.0.0.201707251912'/>
+    </artifacts>
+    <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+    <touchpointData size='1'>
+      <instructions size='1'>
+        <instruction key='manifest'>
+          Bundle-SymbolicName: eu.vicci.process.graphiti.adapter.view;singleton:=true&#xA;Bundle-Version: 1.0.0.201707251912&#xA;
+        </instruction>
+      </instructions>
+    </touchpointData>
+  </unit>
+</units>
