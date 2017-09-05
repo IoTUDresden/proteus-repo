@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<units size='1'>
+  <unit id='eu.vicci.process.core' version='1.0.0.201709051234'>
+    <update id='eu.vicci.process.core' range='[0.0.0,1.0.0.201709051234)' severity='0'/>
+    <properties size='4'>
+      <property name='org.eclipse.equinox.p2.name' value='Core'/>
+      <property name='maven-groupId' value='eu.vicci.proteus.bundles.model'/>
+      <property name='maven-artifactId' value='eu.vicci.process.core'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+    <provides size='15'>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.core' version='1.0.0.201709051234'/>
+      <provided namespace='osgi.bundle' name='eu.vicci.process.core' version='1.0.0.201709051234'/>
+      <provided namespace='java.package' name='com.fasterxml.jackson.annotation' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.client.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.devices.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.devices.events.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.distribution.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.engine.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.messages.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.serialization.jsonprocessstepinstances.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.serialization.jsonprocesssteps.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.serialization.jsontypeinstances.core' version='0.0.0'/>
+      <provided namespace='java.package' name='eu.vicci.process.model.util.serialization.jsontypes.core' version='0.0.0'/>
+      <provided namespace='org.eclipse.equinox.p2.eclipse.type' name='bundle' version='1.0.0'/>
+    </provides>
+    <requires size='2'>
+      <required namespace='osgi.bundle' name='org.eclipse.core.runtime' range='0.0.0'/>
+      <required namespace='osgi.bundle' name='eu.vicci.process.model' range='1.0.0'/>
+    </requires>
+    <artifacts size='1'>
+      <artifact classifier='osgi.bundle' id='eu.vicci.process.core' version='1.0.0.201709051234'/>
+    </artifacts>
+    <touchpoint id='org.eclipse.equinox.p2.osgi' version='1.0.0'/>
+    <touchpointData size='1'>
+      <instructions size='1'>
+        <instruction key='manifest'>
+          Bundle-SymbolicName: eu.vicci.process.core;singleton:=true&#xA;Bundle-Version: 1.0.0.201709051234&#xA;
+        </instruction>
+      </instructions>
+    </touchpointData>
+  </unit>
+</units>
