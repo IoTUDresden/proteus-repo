@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<units size='1'>
+  <unit id='201710051339.processeditor.plugins' version='1.0.0.7J--cDsLME8Ecymwce9xYaN'>
+    <properties size='2'>
+      <property name='org.eclipse.equinox.p2.name' value='Process Editor Plugins'/>
+      <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+    </properties>
+    <provides size='1'>
+      <provided namespace='org.eclipse.equinox.p2.iu' name='201710051339.processeditor.plugins' version='1.0.0.7J--cDsLME8Ecymwce9xYaN'/>
+    </provides>
+    <requires size='10'>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.core' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.model.util' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.client' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.openhab.util' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.graphiti' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.graphiti.adapter.view' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.model' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.gesture' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.graphiti.execution' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+      <required namespace='org.eclipse.equinox.p2.iu' name='eu.vicci.process.graphiti.adapter' range='[1.0.0.201710051339,1.0.0.201710051339]'/>
+    </requires>
+    <touchpoint id='null' version='0.0.0'/>
+  </unit>
+</units>
