@@ -5,44 +5,44 @@
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20171116.162153</timestamp>
+      <timestamp>20171116.173559</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20171116162153</lastUpdated>
+    <lastUpdated>20171116173559</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>p2metadata</classifier>
         <extension>xml</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>p2artifacts</classifier>
         <extension>xml</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20171116.162153-1</value>
-        <updated>20171116162153</updated>
+        <value>1.0.0-20171116.173559-1</value>
+        <updated>20171116173559</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
