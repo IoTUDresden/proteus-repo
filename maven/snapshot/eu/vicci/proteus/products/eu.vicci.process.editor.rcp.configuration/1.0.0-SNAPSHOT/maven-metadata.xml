@@ -5,68 +5,68 @@
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180109.103656</timestamp>
+      <timestamp>20180109.115435</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180109103656</lastUpdated>
+    <lastUpdated>20180109115435</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>p2artifacts</classifier>
         <extension>xml</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>eu.vicci.process.editor.rcp.configuration.executable.win32.win32.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>eu.vicci.process.editor.rcp.configuration.executable.gtk.linux.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>eu.vicci.process.editor.rcp.configuration.executable.cocoa.macosx.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>p2metadata</classifier>
         <extension>xml</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>win32.win32.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>linux.gtk.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>macosx.cocoa.x86_64</classifier>
         <extension>zip</extension>
-        <value>1.0.0-20180109.103656-1</value>
-        <updated>20180109103656</updated>
+        <value>1.0.0-20180109.115435-1</value>
+        <updated>20180109115435</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
