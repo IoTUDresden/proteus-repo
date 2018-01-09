@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.vicci.proteus.bundles.engine</groupId>
+  <artifactId>eu.vicci.process.distribution</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180109103547</lastUpdated>
+  </versioning>
+</metadata>
